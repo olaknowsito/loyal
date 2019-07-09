@@ -311,7 +311,7 @@
 									<?php
 								} else {
 									?>
-										<img class="img_card_custom" src="../assets/img/icons/femalecorp.png" height="150" width="150" alt="Card image cap">
+										<img class="img_card_custom" src="../assets/img/icons/femalecorp.PNG" height="150" width="150" alt="Card image cap">
 									<?php
 								}
 							?>

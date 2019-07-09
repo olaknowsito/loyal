@@ -244,7 +244,7 @@
 								<div class="modal-body text-center">
 									<p>How much would you like to Reedeem?</p>
 										<form action="../controller/crud_endpoint.php" method="POST">
-											<input type="number" class="form-control" name="dd_this_num" value="" required>
+											<input type="number" class="form-control" name="dd_this_num" value="" max="<?php echo $emp['remaining_points'] ?>" required>
 											<input type="text" class="form-control" name="username" value="<?php echo $emp['first_name'] ?>" hidden>
 											<input type="text" name="id_del" value="<?php echo $emp['user_id'] ?>" hidden>
 											<input type="number" name="reward_db" value="<?php echo $emp['remaining_points'] ?>" hidden><br>

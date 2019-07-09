@@ -1,0 +1,131 @@
+html, body {
+	font-family: 'Play', sans-serif;
+	height: 100%;
+  	margin: 0;
+
+}
+
+.wrapper {
+  min-height: 100%;
+
+  /* Equal to height of footer */
+  /* But also accounting for potential margin-bottom of last child */
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+}
+
+.footer {
+	background-color: red;
+}
+
+
+.nav_css {
+  background-color: #b2975866 !important;
+}
+
+/* .nav_css:hover {
+  background-color: #b29758 !important;
+} */
+
+
+.btn_add {
+  color: #1d2124 !important;
+  background-color: white !important;
+  border-color: #dee1e4 !important;
+}
+
+.btn_add {
+  background-color: #b29758 !important;
+}
+/* 
+.hover_a_nav:hover {
+  color: #F1C901 !important;
+} */
+
+.img_card_custom {
+  margin: 5px;
+}
+
+
+.info_card {
+  font-size: 12px;
+  color: #b29758 !important;
+
+}
+
+.card_user {
+  border-color: #b29758 !important;
+  background: beige;
+}
+
+.add_points, 
+.deduct_points {
+  cursor: pointer;
+}
+
+.ch_custom {
+  background: #b29758 !important;
+}
+
+.btn-gold {
+  background-color: #b29758 !important;
+  color: white !important;
+}
+
+
+.edit_user {
+  cursor: pointer;
+
+}
+
+.del_user {
+  position: absolute;
+  left: 130px;
+  cursor: pointer;
+
+}
+
+.point_history {
+  /* margin:0 !important; */
+  /* padding:0 !important; */
+  border-color: #fff !important;
+
+}
+
+.history_h {
+  font-size: 11px !important;
+  position:relative;
+  top:15%;
+}
+
+.for_scroll {
+  background-color: beige;
+  height: 300px;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.history_h {
+  font-size: 11px !important;
+  position:relative;
+  top:15%;
+}
+
+.summary_table {
+  background-color: beige;
+}
+
+.summary {
+  position:relative;
+  top:56%;
+
+}
+
+
+
+
+
+

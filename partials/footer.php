@@ -1,6 +1,8 @@
 		<div class="push"></div>
 	</div>
-	<footer class="footer"> copyright </footer>
+	<footer class="footer text-center">
+		<h6 class="pt-3">&copy;copyright </h6>
+	</footer>
 
 
 	<script type="text/javascript" src="../assets/js/script.js"></script>

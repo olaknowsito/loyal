@@ -8,7 +8,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto mx-auto">
                     <li class="nav-item active">
-                        <a class="nav-link hover_a_nav" href="user.php">Loyal Wallet</a>
+                        <a class="nav-link hover_a_nav" href="user.php"><strong>Loyal Wallet</strong></a>
                     </li>
                 </ul>
             </div>
